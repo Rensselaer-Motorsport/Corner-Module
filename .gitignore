@@ -7,7 +7,7 @@
 *.uvproj
 *_timing.html
 **/*.cydsn/codegentemp/
-**/*.cydsn/CortexM3/
+**/*.cydsn/DP8051/
 **/*.cydsn/Generated_Source/
 **/*.cydsn/Export/
 Backup
